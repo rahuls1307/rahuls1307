@@ -1,5 +1,4 @@
 ### Hi there 👋
-3rd year student in NIT Trichy
 <!--
 **rahuls1307/rahuls1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
